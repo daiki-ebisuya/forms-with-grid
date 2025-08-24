@@ -90,3 +90,13 @@ form {
   gap: 15px;
   margin-bottom: 20px;
 }
+
+h3 {
+    padding: 20px;
+
+}
+
+img {
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
